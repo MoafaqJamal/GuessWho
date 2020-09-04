@@ -1,0 +1,1 @@
+java -cp .:jopt-simple-5.0.2.jar GuessWho -l log.txt sampleGameFiles/game1.config  sampleGameFiles/game1.chosen binary binary
